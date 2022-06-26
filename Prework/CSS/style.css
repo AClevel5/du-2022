@@ -1,0 +1,23 @@
+p {font-size:20px}
+
+#blue {color:blue}
+#red {color:red}
+#green {color:green}
+#big {font-size:28px}
+#tiny {font-size:14px}
+#center {text-align:center}
+#orange {color:orange}
+
+h1 {
+text-align: center;
+}
+
+.styledFont {color:green}
+.bold {font-weight:700}
+.cursive {font-family:cursive}
+
+#styledImage {
+    border-style:double;
+    border-color: rgb(11, 178, 80);
+    border-width: 10px;
+}
